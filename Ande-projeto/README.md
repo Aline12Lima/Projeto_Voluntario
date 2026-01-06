@@ -32,9 +32,15 @@ O projeto foi desenvolvido utilizando as melhores práticas do mercado atual:
 - **[Tailwind CSS](https://tailwindcss.com/)** - Framework CSS utilitário para estilização ágil.
 - **[Lucide React](https://lucide.dev/)** - Biblioteca de ícones leves e modernos.
 
+## 🚀 Deploy 
+ 
+ O Build do projeto para gerar os arquivos de produção foi utilizado:
+ npm run Build
+
 ## 📂 Estrutura do Projeto
 
 A arquitetura de pastas foi organizada para facilitar a manutenção e escalabilidade:
+
 
 ```bash
 src/
