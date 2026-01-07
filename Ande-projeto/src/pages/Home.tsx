@@ -18,13 +18,7 @@ export const Home = () => {
         <Projects />
         <Testimonials />
         <Volunteer />
-        <button 
-  className="bg-red-500 text-white p-2 rounded"
-  onClick={() => { throw new Error("Teste Sentry ONG Ande"); }}
->
-  Testar Erro
-</button>
-      </main>
+            </main>
       <Footer />
     </div>
   );
